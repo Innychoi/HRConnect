@@ -2,9 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 ## Available Scripts
 
 In the project directory, you can run:
+  - go to 'myapp' directory
+  - npm install (install packages)
+  - npm start (start react complier and server)
+  - npm run server (start back-end server)
+
+### Try add a person
+Since Linkedin API regulation is strick, I scraped the data by using 3rd party web scraping app and saved the data in my database.
+If you want to try adding a person, use the profile links below.
+[https://www.linkedin.com/in/jinhoo-bong/]
+[https://www.linkedin.com/in/elijiahadavis]
+[https://www.linkedin.com/in/ikaogeil/]
+[https://www.linkedin.com/in/elenemikaberidze/]
 
 ### `npm start`
 
